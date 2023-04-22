@@ -1,6 +1,3 @@
-
-[![Github All Releases](https://img.shields.io/github/downloads/jexelbytes/PingTime-Utility/total.svg)]()
-
 <h1 align="center">PingTime-Utility</h1>
 
 <p align="center">Utilidad enfocada en monitorizar la estabilidad del internet a travez del "Ping".</p>
